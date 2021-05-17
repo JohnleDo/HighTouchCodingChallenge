@@ -1,0 +1,13 @@
+E:\Desktop\Git\HighTouchCodingChallenge\bin\Debug\netcoreapp3.1\HighTouchCodingChallenge.exe
+E:\Desktop\Git\HighTouchCodingChallenge\bin\Debug\netcoreapp3.1\HighTouchCodingChallenge.deps.json
+E:\Desktop\Git\HighTouchCodingChallenge\bin\Debug\netcoreapp3.1\HighTouchCodingChallenge.runtimeconfig.json
+E:\Desktop\Git\HighTouchCodingChallenge\bin\Debug\netcoreapp3.1\HighTouchCodingChallenge.runtimeconfig.dev.json
+E:\Desktop\Git\HighTouchCodingChallenge\bin\Debug\netcoreapp3.1\HighTouchCodingChallenge.dll
+E:\Desktop\Git\HighTouchCodingChallenge\bin\Debug\netcoreapp3.1\HighTouchCodingChallenge.pdb
+E:\Desktop\Git\HighTouchCodingChallenge\obj\Debug\netcoreapp3.1\HighTouchCodingChallenge.csprojAssemblyReference.cache
+E:\Desktop\Git\HighTouchCodingChallenge\obj\Debug\netcoreapp3.1\HighTouchCodingChallenge.AssemblyInfoInputs.cache
+E:\Desktop\Git\HighTouchCodingChallenge\obj\Debug\netcoreapp3.1\HighTouchCodingChallenge.AssemblyInfo.cs
+E:\Desktop\Git\HighTouchCodingChallenge\obj\Debug\netcoreapp3.1\HighTouchCodingChallenge.dll
+E:\Desktop\Git\HighTouchCodingChallenge\obj\Debug\netcoreapp3.1\HighTouchCodingChallenge.pdb
+E:\Desktop\Git\HighTouchCodingChallenge\obj\Debug\netcoreapp3.1\HighTouchCodingChallenge.genruntimeconfig.cache
+E:\Desktop\Git\HighTouchCodingChallenge\obj\Debug\netcoreapp3.1\HighTouchCodingChallenge.csproj.CoreCompileInputs.cache
